@@ -13,40 +13,62 @@
 ## ⚡ Technical Skills
 - **Frontend:** React, Next.js, Vue.js, Vite, TailwindCSS, HTML5, CSS3.
 - **Backend & DB:** Node.js, Firebase, MongoDB, REST APIs.
-- **Mobile:** Flutter, React Native, Dart.
+- **Mobile:** Flutter, Dart.
 - **AI & Data Science:** Python, TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy.
-- **Tools:** Git, GitHub, GitLab, Postman, Vercel, Figma, Canva.
+- **AI Tools:** ChatGPT, Gemini, Google AI Studio, Lovable, DeepSeek, Gamma, Copilot, Grok, ElevenLabs.
+- **Tools:** Git, GitHub, GitLab, Postman, Vercel, Figma, Canva, VS Code.
 
+### 🛠️ Technologies & Tools
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
+  <img width="12" />
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+  <img width="12" />
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img width="12" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
 </div>
-
-## 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sarthak0422&theme=darcula&hide_border=false&include_all_commits=false&count_private=false" alt="stats" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=sarthak0422&theme=darcula&hide_border=false" alt="streak" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak0422&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="languages" />
-</p>
 
 ## 📞 Connect with Me
 <div align="left">
@@ -62,6 +84,3 @@
 </div>
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sarthak0422&icon=10&color=13" alt="visitor count" />
-</p>
